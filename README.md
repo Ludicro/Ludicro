@@ -7,11 +7,11 @@
 I am a Computer Information Systems (CIS) student on the Cybersecurity track at the University of Louisville. I have been involved in computer science since my early years of high school and been active in cybersecurity studied and the field for 5+ years now. I am an active member of UofL's ACM student organization and a regular member of the university's CCDC team which has led to my peers and I participating in many CTF style and red/blue team style competitions. 
 
 ## Experience 
-- 2+ years working in a SOC environment with various SIEMs
-- Experienced with Windows and Linux
-- Familiar with containerization and virtualization
-- Understanding of networks
-- Experienced in a multitude of cybersecurity tools and computing tools/languages
+- 🛡️ 2+ years working in a SOC environment with various SIEMs
+- 🐧 Experienced with Windows and Linux
+- 📦 Familiar with containerization and virtualization
+- 📶 Understanding of networks
+- ⚙️ Experienced in a multitude of cybersecurity tools and computing tools/languages
 <details><summary>Tools/Languages [Click to Expand]</summary>
 
   - 🖥️ <b>Programming:</b> C, <ins>C++</ins>, C#, Java, <ins>Python</ins>, Javascript, SQL
@@ -31,6 +31,7 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 - 🏅 Team placed 11/4672 in the National Cyber League Team Game Fall 2023 ([Report](https://cyberskyline.com/report/FHAM10HNEUXA)
 - 🏅 Team placed 131/920 in the National Cyber League Team Game Fall 2021 ([Report](https://cyberskyline.com/report/U6T6UUBTLB5J))
 - 🏅 Team placed 216/1069 in the National Cyber League Team Game Fall 2022 ([Report](https://cyberskyline.com/report/JWVHPVDWJFN9))
+- 🏆 As part of the UofL Team, attended the [National Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) - [Mid-West Regional Competition](https://www.caeepnc.org/mwccdc/) for years 2022 and 2023
 - 🦅 Earned Eagle Scout rank
 
 ## Contact Me
