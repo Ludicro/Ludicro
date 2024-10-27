@@ -42,7 +42,7 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 - Offensive Security Certified Professional (OSCP) **(COMING SOON i hope)**
 
 ## Awards and Accomplishments
-- 🏅 Placed 230/7934 in the National Cyber League Individual Game Fall 2023 ([Report](https://cyberskyline.com/report/EWCE1DX3HP1U))
+- 🏅 Placed 230/7934 in the National Cyber League Individual Game Fall 2023 ([Report](NCL_Reports/2023FallIndiv))
 - 🏅 Placed 457/3487 in the National Cyber League Individual Game Fall 2022 ([Report](https://cyberskyline.com/report/JWVHPVDWJFN9))
 - 🏅 Team placed 11/4672 in the National Cyber League Team Game Fall 2023 ([Report](https://cyberskyline.com/report/FHAM10HNEUXA)
 - 🏅 Team placed 131/920 in the National Cyber League Team Game Fall 2021 ([Report](https://cyberskyline.com/report/U6T6UUBTLB5J))
