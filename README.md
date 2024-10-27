@@ -42,11 +42,11 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 - Offensive Security Certified Professional (OSCP) **(COMING SOON i hope)**
 
 ## Awards and Accomplishments
-- 🏅 Placed 230/7934 in the National Cyber League Individual Game Fall 2023 ([Report](NCL_Reports/2023FallIndiv))
-- 🏅 Placed 457/3487 in the National Cyber League Individual Game Fall 2022 ([Report](https://cyberskyline.com/report/JWVHPVDWJFN9))
-- 🏅 Team placed 11/4672 in the National Cyber League Team Game Fall 2023 ([Report](https://cyberskyline.com/report/FHAM10HNEUXA)
-- 🏅 Team placed 131/920 in the National Cyber League Team Game Fall 2021 ([Report](https://cyberskyline.com/report/U6T6UUBTLB5J))
-- 🏅 Team placed 216/1069 in the National Cyber League Team Game Fall 2022 ([Report](https://cyberskyline.com/report/JWVHPVDWJFN9))
+- 🏅 Placed 230/7934 in the National Cyber League Individual Game Fall 2023 ([Report](NCL_Reports/2023FallIndiv.pdf))
+- 🏅 Placed 457/3487 in the National Cyber League Individual Game Fall 2022 ([Report](NCL_Reports/2022FallIndiv.pdf))
+- 🏅 Team placed 11/4672 in the National Cyber League Team Game Fall 2023 ([Report](NCL_Reports/2023FallTeam.pdf)
+- 🏅 Team placed 131/920 in the National Cyber League Team Game Fall 2021 ([Report](NCL_Reports/2021FallTeam.pdf))
+- 🏅 Team placed 216/1069 in the National Cyber League Team Game Fall 2022 ([Report](NCL_Reports/2022FallTeam.pdf))
 - 🏆 As part of a university team, attended the [National Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) - [Mid-West Regional Competition](https://www.caeepnc.org/mwccdc/) for years 2022 and 2023
 - 🦅 Earned Eagle Scout rank
 
