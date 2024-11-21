@@ -2,6 +2,8 @@
   <a href="LukeLevequeResume.pdf">
     <img src="logo.png" alt="Resume" />
   </a>
+  <br>
+  ⬆️ <i>click me</i>
 </p>
 
 <p align="center">
