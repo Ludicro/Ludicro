@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="logo.png" />
+  <a href="@LukeLevequeResume.pdf">
+    <img src="logo.png" alt="Resume" />
+  </a>
 </p>
 
 <p align="center">
 I am a Computer Information Systems (CIS) student on the Cybersecurity track at the University of Louisville. I have been involved in computer science since my early years of high school and been active in cybersecurity studied and the field for 5+ years now. I am an active member of UofL's ACM student organization and a regular member of the university's CCDC team which has led to my peers and I participating in many CTF style and red/blue team style competitions. 
-</p>
-
-<h3 align="center"> Resume </h3>
-<p align="center">
-  <img src="ResumeQR.png" />
 </p>
 
 ## Experience
