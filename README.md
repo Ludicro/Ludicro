@@ -40,11 +40,11 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 
 ## Awards and Accomplishments
 - 🏅 Placed 332/8484 in the National Cyber League Individual Game Fall 2024 ([Report](NCL/Scouting_Reports/IndivGame/2024_Fall_Indiv.pdf))
-- 🏅 Placed 230/7934 in the National Cyber League Individual Game Fall 2023 ([Report](NCL/Scouting_Reports/IndivGame/2023_Fall_Indiv.pdf))
+- 🏅 **Placed 230/7934 in the National Cyber League Individual Game Fall 2023** ([Report](NCL/Scouting_Reports/IndivGame/2023_Fall_Indiv.pdf))
 - 🏅 Placed 457/3487 in the National Cyber League Individual Game Fall 2022 ([Report](NCL/Scouting_Reports/IndivGame/2022_Fall_Indiv.pdf))
 - 🏅 Team placed 12/532 in the National Cyber League Experienced Bracket Team Game Fall 2024 ([Report](NCL/Scouting_Reports/TeamGame/2024_Fall_Team.pdf))
-- 🏅 Team placed 11/4672 in the National Cyber League Team Game Fall 2023 ([Report](NCL/Scouting_Reports/TeamGame/2023_Fall_Team.pdf))
-- 🏅 Team placed 216/1069 in the National Cyber League Team Game Fall 2022 ([Report](NCL/Scouting_Reports/TeamGame/2022_Fall_Team.pdf))
+- 🏅 **Team placed 11/4672 in the National Cyber League Team Game Fall 2023** ([Report](NCL/Scouting_Reports/TeamGame/2023_Fall_Team.pdf))
+- 🏅 **Team placed 216/1069 in the National Cyber League Team Game Fall 2022** ([Report](NCL/Scouting_Reports/TeamGame/2022_Fall_Team.pdf))
 - 🏅 Team placed 131/920 in the National Cyber League Team Game Fall 2021 ([Report](NCL/Scouting_Reports/TeamGame/2021_Fall_Team.pdf))
 - 🏆 As part of a university team, attended the [National Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) - [Mid-West Regional Competition](https://www.caeepnc.org/mwccdc/) for years 2022 and 2023
 - 🦅 Earned Eagle Scout rank
