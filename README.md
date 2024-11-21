@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="@LukeLevequeResume.pdf">
+  <a href="LukeLevequeResume.pdf">
     <img src="logo.png" alt="Resume" />
   </a>
 </p>
