@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="LukeLevequeResume.pdf">
+  <a href="LukeLevequeResume-GitHub.pdf">
     <img src="logo.png" alt="Resume" />
   </a>
   <br>
