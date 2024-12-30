@@ -13,7 +13,7 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 ## Experience
 - Palo Alto Networks - SOC Security Engineer Intern (Summer 2024)
 - University of Louisville - Security Analyst Student Assisant (2022-2023)
-- Geek Squad - Consultation Agent/Advanced Repair Agent (2021-20222)
+- Geek Squad - Consultation Agent/Advanced Repair Agent (2021-2022)
 
 
 
