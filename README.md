@@ -32,7 +32,7 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
   - 🕸️ <b>Web Apps:</b> <ins>Burp Suite</ins>
   - 🪪 &nbsp;<b>Digital Forensics:</b> Autopsy, FTK Imager
   - 📶 <b>Network Packet Analysis:</b> Wireshark
-  - 🗄️ <b>Database</b> SQL, <ins>XQL</ins>, KQL
+  - 🗄️ <b>Database</b> [SQL](https://github.com/Ludicro/Ludicro/tree/main/SQL), <ins>XQL</ins>, KQL
   - 🛠️ <b>General Tools:</b> hashcat, BadUSB, FlipperZero utilities, Ghidra
   - 📦 <b>Containers:</b> Docker
 </details>
