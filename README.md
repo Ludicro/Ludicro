@@ -3,7 +3,7 @@
     <img src="logo.png" alt="Resume" />
   </a>
   <br>
-  ⬆️ <i>click me</i>
+  ⬆️ <i>click me for a resume</i>
 </p>
 
 <p align="center">
