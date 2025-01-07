@@ -25,13 +25,14 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 - 🚨 Proficient with server administration and firewall configuration
 <details><summary>Tools and Skillsets</summary>
 
-  - 🖥️ <b>Programming:</b> C, <ins>C++</ins>, C#, Java, <ins>Python</ins>, Javascript, SQL
+  - 🖥️ <b>Programming:</b> C, <ins>C++</ins>, C#, Java, <ins>Python</ins>, Javascript
   - ⌨️ <b>Scripting:</b> <ins>Bash</ins>, <ins>Powershell</ins>
   - 💻 <b>Operating Systems:</b> <ins>Kali/Ubuntu/Debian</ins>, <ins>Windows</ins>, Mac
   - ☁️ <b>Cloud Environments:</b> AWS, Google Cloud, Azure
   - 🕸️ <b>Web Apps:</b> <ins>Burp Suite</ins>
   - 🪪 &nbsp;<b>Digital Forensics:</b> Autopsy, FTK Imager
   - 📶 <b>Network Packet Analysis:</b> Wireshark
+  - 🗄️ <b>Database</b> SQL, <ins>XQL</ins>, KQL
   - 🛠️ <b>General Tools:</b> hashcat, BadUSB, FlipperZero utilities, Ghidra
   - 📦 <b>Containers:</b> Docker
 </details>
