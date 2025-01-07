@@ -56,9 +56,9 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 - 🤝 LinkedIn: [Luke Leveque](https://www.linkedin.com/in/luke-leveque/)
 
 ## Notable Repos
-- [NCL Writeups](https://github.com/Ludicro/NCL-Public) - A collection of writeups for the National Cyber League
-- [GlyphForge](https://github.com/Ludicro/GlyphForge) - A D&D based GUI system made to represent spells as decipherable sigils based off [GorillaOfDestiny](https://github.com/GorillaOfDestiny)'s spell writing guide
-- [Ludicro-BadUSB](https://github.com/Ludicro/Ludicro-BadUSB) - A collection of BadUSB scripts for various devices
+- [NCL Writeups](https://github.com/Ludicro/NCL-Public) - A collection of writeups for the National Cyber League that utilizes various tools
+- [GlyphForge](https://github.com/Ludicro/GlyphForge) - A Python based GUI system made to represent D&D spells as decipherable sigils based off [GorillaOfDestiny](https://github.com/GorillaOfDestiny)'s spell writing guide
+- [Ludicro-BadUSB](https://github.com/Ludicro/Ludicro-BadUSB) - A collection of BadUSB scripts for various hardware devices
 
 
 ## GitHub Stats
