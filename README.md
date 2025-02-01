@@ -53,7 +53,7 @@ I am a Computer Information Systems (CIS) student on the Cybersecurity track at 
 - 🦅 Earned Eagle Scout rank
 
 ## Contact Me
-- 📧 Email Me: ludicro.professional@proton.me
+- 📧 Email Me: contact@glyphforge.net
 - 🤝 LinkedIn: [Luke Leveque](https://www.linkedin.com/in/luke-leveque/)
 
 ## Notable Repos
