@@ -1,6 +1,6 @@
 <p align="center">
   <a href="LukeLevequeResume-GitHub.pdf">
-    <img src="logo-green.png" alt="Resume" />
+    <img src="logo_highDef.png" alt="Resume" />
   </a>
   <br>
   ⬆️ <i>click me for a resume</i>
